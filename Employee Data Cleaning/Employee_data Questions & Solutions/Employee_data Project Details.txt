@@ -1,0 +1,22 @@
+Project Name: Employee Data Cleaning Using Pandas & NumPy.
+
+Objective: This project is for beginners & will teach you how to analyze, clean data.
+
+Tools Used: PyCharm/Visual Studio Code, NumPy & Pandas.
+
+Dataset: employee_data.csv
+
+About the dataset: This Employee data, contains data of around 31 rows & 8 columns.
+Columns: Emp_ID, Name, Age, Salary, Experience, City, Department, Performance
+
+
+Steps & What we shall do in this project:
+1. Load the data: Read the CSV file using pandas.
+2. Clean the data: Handle missing values values, remove duplicates, fix columns if needed.
+3. Understand the data: Use head(), info(), describe() to explore the dataset.
+
+Types of libraries & their functions, which are used in this project:
+pandas & numpy -> Data loading, cleaning, exploration.
+
+
+Solution File: clean_employee_data.py
